@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\LenovoThinkpad_0003\Desktop\Application\XML_Modifier.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\LenovoThinkpad_0003\Desktop\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\LenovoThinkpad_0003\Desktop\Application\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_381 / 64-Bit (OK)
+Launcher:	C:\Users\LenovoThinkpad_0003\Desktop\Application\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\LenovoThinkpad_0003\Desktop\Application\XML_Modifier.exe"
+Args length:	72/32768 chars
+Exit code:	0
